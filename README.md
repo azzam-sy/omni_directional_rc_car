@@ -11,16 +11,28 @@ The RC car uses all directions of movement provided by the mecanum wheels.
 
 
 Concepts used for RC car:
+
 Embedded C++ structure | functions, globals, setup/loop
+
 Digital I/O pin management
+
 Non-blocking timing | millis()
+
 Finite state machine logic
 
+
+
+
 Omni-directional movement | crab, diagonal, pivot variations
+
 Ultrasonic sensor for distance measurement
+
 PWM motor control
 
+
+
 RC signal parsing | pulseIn()
+
 Controller disconnect detection
 
 
