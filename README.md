@@ -14,4 +14,4 @@ Concepts used for RC car: Embedded C++ structure (functions, globals, setup/loop
 
 
 
-Hardware experience gained throughout the course: Arduino microcontrollers   |   Bread boards   |   Buttons and LEDs   |   9V Batteries   |   Servo motors   |   DC Motors   |   Voltage meter   |   Potentiometers   |   Transistors   |   Piezos   |   4-pin Ultrasonic sensors
+Hardware experience gained throughout the course: Arduino microcontrollers   |||   Bread boards   |||   Buttons and LEDs   |||   9V Batteries   |||   Servo motors   |||   DC Motors   |||   Voltage meter   |||   Potentiometers   |||   Transistors   |||   Piezos   |||   4-pin Ultrasonic sensors
